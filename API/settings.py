@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-tmqy!k+*m2(1%+zaoo0qqfbjgv#g=ls*=g0=m1@!7hup)hj-(1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['apirestflutteraplicacionesmoviles18.azurewebsites.net']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
